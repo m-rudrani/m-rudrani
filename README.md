@@ -24,7 +24,7 @@ I enjoy solving real-world problems by combining **data, AI, and development**. 
 - 🔭 Currently exploring **AI-powered web apps & data-driven dashboards**  
 - 🌱 Learning advanced **Machine Learning, Deep Learning, and Cloud (AWS)**  
 - 👯 Open to collaborating on **AI/ML, full-stack, and data analytics projects**  
-- 💬 Ask me about: **Data preprocessing, model building, Power BI, Flask, React, Foursquare API**  
+- 💬 Ask me about: **Data preprocessing, model building, Power BI, Flask, React**  
 - ⚡ Fun fact: I started as a full-stack intern but quickly dived into AI & hackathons — now I blend both worlds!  
 
 ---
