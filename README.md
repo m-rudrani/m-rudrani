@@ -20,7 +20,7 @@ I enjoy solving real-world problems by combining **data, AI, and development**. 
 
 ---
 
-## 🚀 About Me
+##  About Me
 - 🔭 Currently exploring **AI-powered web apps & data-driven dashboards**  
 - 🌱 Learning advanced **Machine Learning, Deep Learning, and Cloud (AWS)**  
 - 👯 Open to collaborating on **AI/ML, full-stack, and data analytics projects**  
@@ -56,7 +56,7 @@ I enjoy solving real-world problems by combining **data, AI, and development**. 
 ## 📫 Connect with Me
 - 📧 Email: [rudraniamahajan@gmail.com](mailto:rudraniamahajan@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/rudrani-mahajan](https://linkedin.com/in/rudrani-mahajan)  
-- 🌐 Portfolio: [portfolio760.web.app](https://portfolio760.web.app)  
+- 🌐 Portfolio: [portfolio760.web.app](https://rudrani-mahajan.web.app)  
 - 🐙 GitHub: [@m-rudrani](https://github.com/m-rudrani)  
 
 ---
