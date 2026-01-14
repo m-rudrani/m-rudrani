@@ -26,23 +26,6 @@ I enjoy solving real-world problems by combining **data, AI, and development**. 
 - 👯 Open to collaborating on **AI/ML, full-stack, and data analytics projects**  
 - 💬 Ask me about: **Data preprocessing, model building, Power BI, Flask, React**  
 - ⚡ Fun fact: I started as a full-stack intern but quickly dived into AI & hackathons — now I blend both worlds!  
-
----
-
-## 🛠 Skills
-**Languages & Web Tech**: C/C++, Python, JavaScript, HTML, CSS, Bootstrap, PHP, Flask, SQL, MongoDB  
-**Data & ML**: Pandas, Machine Learning, Deep Learning, NLP, OCR (basic), Feature Engineering, Visualization  
-**Tools & Platforms**: Power BI, Jupyter Notebooks, Git/GitHub, Docker, AWS (intro), MS Excel  
-**Soft Skills**: Problem Solving, Critical Thinking, Communication, Leadership  
-
----
-
-## 📂 Featured Projects
-- 🧠 [**Brain Stroke Detection in CT Scans**](https://github.com/m-rudrani/Brain-Stroke-Detection-In-CT-scan) – CNN model achieving **93% accuracy** on 5,000+ CT images  
-- 🌱 [**PlantPulse AI**](https://github.com/m-rudrani/PlantPulse-AI) – Plant disease detection using **IBM Watson + Generative AI**, with React-Vite dashboard  
-- 📊 [**Customer Churn Dashboard**](https://github.com/m-rudrani/PowerBi_Dashboard) – Power BI dashboard analyzing retention & risk trends  
-- 💳 [**Credit Card Fraud Detection**](https://github.com/m-rudrani/Credit-Card-Fraud-Detection) – XGBoost model with **96% accuracy** and SHAP-based interpretability  
-
 ---
 
 ## 🎓 Certifications
@@ -56,9 +39,5 @@ I enjoy solving real-world problems by combining **data, AI, and development**. 
 ## 📫 Connect with Me
 - 📧 Email: [rudraniamahajan@gmail.com](mailto:rudraniamahajan@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/rudrani-mahajan](https://linkedin.com/in/rudrani-mahajan)  
-- 🌐 Portfolio: [portfolio760.web.app](https://rudrani-mahajan.web.app)  
+- 🌐 Portfolio: [rudrani_mahajan.web.app](https://rudrani-mahajan.web.app)  
 - 🐙 GitHub: [@m-rudrani](https://github.com/m-rudrani)  
-
----
-
-⭐️ _Check out my repositories and feel free to reach out if you’d like to collaborate!_
